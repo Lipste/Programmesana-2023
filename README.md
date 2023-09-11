@@ -1,2 +1,3 @@
 # Programmesana-2023
-Diana
+ieraksti savu vārdu
+Ksenija
